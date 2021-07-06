@@ -20,5 +20,6 @@ docker-compose up
 
 i.e
 ```
-curl -i localhost:8080/match1
+# curl localhost:8080/match1  
+match1%            
 ```
